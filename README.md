@@ -3,6 +3,7 @@
 App for test FR module via UART, windows
 
 ## *** This code is based on fast_app base framework so complicates
+https://github.com/fastcampus-flutter/fast_app_base
 
   <img src="face_recognition_module.png" style="zoom:75%;" />
 
