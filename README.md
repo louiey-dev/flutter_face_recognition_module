@@ -4,6 +4,8 @@ App for test FR module via UART, windows
 
 ## *** This code is based on fast_app base framework so complicates
 
+  <img src="face_recognition_module.png" style="zoom:75%;" />
+
 # Getting Started
 
 1. Run app
